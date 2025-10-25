@@ -1,0 +1,11 @@
+# Progressive Distillation Requirements
+# These are in addition to the main project requirements
+
+torch>=2.0.0
+torchaudio>=2.0.0
+tensorboard>=2.12.0
+tqdm>=4.65.0
+omegaconf>=2.3.0
+librosa>=0.10.0
+numpy>=1.24.0
+scipy>=1.10.0
